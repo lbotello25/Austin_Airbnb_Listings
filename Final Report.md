@@ -1,5 +1,5 @@
-**Introduction/Business Problem:**
+## Introduction/Business Problem:
 There are thousands of car accidents in the U.S. everyday which results in about 90 fatalities per day according to some statistics. The severity of a car accident and the probability of getting involved in one depends on a myriad of factors. For example, according to the National Highway Traffic Safety Administration (NHTSA) fatal accidents are three times more likely at night compared with the daytime. Driving a car is an activity performed by a vast majority of the U.S. population on almost a daily basis. In fact, Americans take 1.1 billion trips a day, that is four trips for every person in the U.S. However, almost no one considers the risks associated with driving. What if there were a way to determine the probability of getting involved in a car accident and the severity of it based on several factors such as weather, time, location, and trip length? The objective of this project is to develop a model to predict the probability of getting involved in a car accident and the severity of it based on several factors with the aim of having drivers reconsider their driving routines. 
 
-**Data:**
+## Data:
 The data to be used to develop the model will be obtained from Seattle’s Department of Transportation. The dataset includes all types of collisions occurring in the Seattle area going all the way back to 2004. Furthermore, the dataset is comprised of 37 attributes and more than 190,000 records which will enable to develop a robust model based on a series of attributes. 
